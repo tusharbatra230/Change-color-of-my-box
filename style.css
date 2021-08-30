@@ -49,14 +49,14 @@ body{
 }
 @media (max-width:768px){
     .BOX{
-        width:420px;
+        width:400px;
         height:300px;
         margin:5px;
         
         
     }
     .container{
-        width:420px;
+        width:400px;
         margin:5px;
        
         
