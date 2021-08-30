@@ -47,7 +47,7 @@ body{
    
  text-align:center;
 }
-@media (max-width:768px){
+@media (max-width:600px){
     .BOX{
         width:400px;
         height:300px;
